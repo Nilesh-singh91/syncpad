@@ -34,6 +34,8 @@ SyncPad/
 - **Git & GitHub** (Version control)
 
 ---
+##SnapShot
+<img src="syncpad.jpg"/>
 
 ## 🧑‍💻 Getting Started
 
